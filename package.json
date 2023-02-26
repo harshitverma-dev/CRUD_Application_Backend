@@ -4,7 +4,8 @@
     "description": "",
     "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dmern stack crud application with advance functionality such as Search pagination filter sort many more.\u001b[B",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
     },
     "keywords": [
         "crud",

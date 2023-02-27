@@ -2,10 +2,9 @@
     "name": "server",
     "version": "1.0.0",
     "description": "",
-    "main": "\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dmern stack crud application with advance functionality such as Search pagination filter sort many more.\u001b[B",
+    "main": "app.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node app.js"
+        "start": "nodemon app.js"
     },
     "keywords": [
         "crud",

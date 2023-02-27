@@ -1,5 +1,3 @@
-// harshit_developer
-// RjDPSXeIWoTYXuW1
 require('dotenv').config();
 const mongoose = require('mongoose');
 const DB = process.env.DATABASE;
